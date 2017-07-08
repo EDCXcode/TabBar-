@@ -1,0 +1,3 @@
+target 'TabBar左滑'
+
+pod 'AFNetworking', '~>3.0.4'  # AFNetworking 版本必须 >=3.0.4 并且 <3.1.0
